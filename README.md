@@ -1,2 +1,2 @@
-#Standard (blue) & Gray Theme
+# Standard (blue) & Gray Theme
 for StandardNotes
