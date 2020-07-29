@@ -1,1 +1,1 @@
-# StandardNotes - Standard Gray Theme
+# Standard Gray Theme
